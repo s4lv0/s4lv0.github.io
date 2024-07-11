@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.support.network.app.core",
+      "sha256_cert_fingerprints": [
+        "07:D0:D7:BA:35:C7:AC:44:BB:0D:CE:24:03:61:72:9E:A3:C7:A5:10:31:56:5A:0B:DD:E7:82:E5:1F:26:04:DE",
+	"D7:09:BA:BB:81:75:D9:03:EC:BA:16:BE:D2:03:CA:08:89:5F:01:57:39:79:71:32:55:1E:98:98:B7:8F:0E:76"
+      ]
+    }
+  }
+]
